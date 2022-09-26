@@ -120,3 +120,14 @@ color: black;
   border-top: 1px solid #00000031;
   padding-top: 10px;
 }
+#footer a{
+    text-decoration: none;
+    color: white;
+}
+.list-unstyled .Learn{
+  font-size: 18px !important;
+  margin-bottom: 12px;
+}
+.list-unstyled li{
+  font-size: 15px;
+}
